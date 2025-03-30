@@ -24,4 +24,4 @@ RSS_DESCRIPTION = "Development Environment"
 [[d1_databases]]
 binding = "DB"
 database_name = "rin"
-database_id = "YourDatabaseID"
+database_id = "d50e5324-691a-42d9-b9e8-a5ffdcaf6f16"
